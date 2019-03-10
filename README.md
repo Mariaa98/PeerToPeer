@@ -1,2 +1,0 @@
-# PeerToPeer
-Second software Assigment
